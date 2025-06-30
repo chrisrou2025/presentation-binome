@@ -1,0 +1,19 @@
+h1{
+    color: orange;
+    font-size: 32px;
+}
+
+h2 {
+    color: blue;
+    font-size: 24px;
+}
+
+p {
+    font-size: 12px;
+    color: black;
+    transition: all 0.5 ease-in-out;
+}
+
+h1:hover {
+    color: aqua;
+}
