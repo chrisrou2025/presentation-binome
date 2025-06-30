@@ -1,6 +1,7 @@
 h1{
     color: orange;
     font-size: 32px;
+    transition: all 0.5 ease-in-out;
 }
 
 h2 {
@@ -11,7 +12,6 @@ h2 {
 p {
     font-size: 12px;
     color: black;
-    transition: all 0.5 ease-in-out;
 }
 
 h1:hover {
